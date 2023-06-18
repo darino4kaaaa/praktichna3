@@ -1,0 +1,12 @@
+C:\Users\maxim\source\repos\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\Project_PR3_CPlusPlus.vcxproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\Project_PR3_CPlusPlus.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maxim\source\repos\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\ProjectPR3CPlusPlus.MyForm.resources
+C:\Users\maxim\source\repos\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\Project_PR3_CPlusPlus.vcxproj.GenerateResource.cache
+C:\Users\maxim\source\repos\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\ProjectPR3CPlusPlus.Zavdanna1.resources
+C:\Users\maxim\source\repos\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\ProjectPR3CPlusPlus.Zavdanna2.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\Project_PR3_CPlusPlus.vcxproj.AssemblyReference.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\Project_PR3_CPlusPlus.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\ProjectPR3CPlusPlus.MyForm.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\ProjectPR3CPlusPlus.Zavdanna1.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\ProjectPR3CPlusPlus.Zavdanna2.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\x64\Debug\Project_PR3_CPlusPlus.vcxproj.GenerateResource.cache

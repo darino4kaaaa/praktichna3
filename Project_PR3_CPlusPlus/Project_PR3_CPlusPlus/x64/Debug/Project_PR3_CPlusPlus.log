@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\Zavdanna2.h(134,1): warning C4819: Файл содержит символ, который невозможно представить в текущей кодовой странице (0). Чтобы не допустить потери данных, сохраните файл в формате Юникод
+  Zavdanna1.cpp
+  Zavdanna2.cpp
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\Project_PR3_CPlusPlus\Zavdanna2.h(134,1): warning C4819: Файл содержит символ, который невозможно представить в текущей кодовой странице (0). Чтобы не допустить потери данных, сохраните файл в формате Юникод
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project_PR3_CPlusPlus.vcxproj -> C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR3_CPlusPlus\x64\Debug\Project_PR3_CPlusPlus.exe
